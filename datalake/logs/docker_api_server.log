@@ -1,0 +1,38 @@
+2024-04-06 16:21:43,947:INFO:Starting API server
+2024-04-06 16:21:43,976:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-04-06 16:21:43,976:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 16:21:43,977:INFO: * Restarting with stat
+2024-04-06 16:21:44,828:INFO:Starting API server
+2024-04-06 16:21:44,835:WARNING: * Debugger is active!
+2024-04-06 16:21:44,851:INFO: * Debugger PIN: 663-275-486
+2024-04-06 16:26:39,493:INFO:Finishing API server
+2024-04-06 16:26:39,756:INFO:Finishing API server
+2024-04-06 16:29:02,118:INFO:Starting API server
+2024-04-06 16:29:02,135:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-04-06 16:29:02,135:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 16:29:02,137:INFO: * Restarting with stat
+2024-04-06 16:29:02,901:INFO:Starting API server
+2024-04-06 16:29:02,905:WARNING: * Debugger is active!
+2024-04-06 16:29:02,907:INFO: * Debugger PIN: 111-017-927
+2024-04-06 16:31:28,070:INFO:Finishing API server
+2024-04-06 16:31:28,287:INFO:Finishing API server
+2024-04-06 16:31:48,728:INFO:Starting API server
+2024-04-06 16:31:48,742:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-04-06 16:31:48,743:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 16:31:48,745:INFO: * Restarting with stat
+2024-04-06 16:31:49,349:INFO:Starting API server
+2024-04-06 16:31:49,353:WARNING: * Debugger is active!
+2024-04-06 16:31:49,354:INFO: * Debugger PIN: 603-437-169
+2024-04-06 16:32:55,568:INFO:----------------------------------------
+2024-04-06 16:32:55,569:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 16:32:58,323:INFO:Prediction: [155849.90294016]
+2024-04-06 16:32:58,329:INFO:172.18.0.3 - - [06/Apr/2024 16:32:58] "POST / HTTP/1.1" 200 -
